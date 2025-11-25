@@ -21541,9 +21541,9 @@
    },
    {
       "id": 3082,
-      "name": "Gis Search",
+      "name": "Gis Validation Search",
       "url": "gis-service/zone/_search",
-      "displayName": "Gis Search",
+      "displayName": "Gis Validation Search",
       "orderNumber": 1,
       "enabled": false,
       "serviceCode": "BPA",
